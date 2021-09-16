@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![TowerFinance](./banner.png)
+![TowerFinance](https://github.com/towerfinance/.github/blob/main/profile/banner.png)
 
 <!--
 
